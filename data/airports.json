@@ -1,0 +1,1447 @@
+[
+  {
+    "icao_code": "VABB",
+    "country_code": "IN",
+    "iata_code": "BOM",
+    "lng": 72.87,
+    "name": "Chhatrapati Shivaji International Airport",
+    "lat": 19.09
+  },
+  {
+    "icao_code": "VIDP",
+    "country_code": "IN",
+    "iata_code": "DEL",
+    "lng": 77.1,
+    "name": "Indira Gandhi International Airport",
+    "lat": 28.56
+  },
+  {
+    "icao_code": "VOCB",
+    "country_code": "IN",
+    "iata_code": "CJB",
+    "lng": 77.04,
+    "name": "Coimbatore International Airport",
+    "lat": 11.03
+  },
+  {
+    "icao_code": "VOCI",
+    "country_code": "IN",
+    "iata_code": "COK",
+    "lng": 76.39,
+    "name": "Cochin International Airport",
+    "lat": 10.15
+  },
+  {
+    "icao_code": "VIJP",
+    "country_code": "IN",
+    "iata_code": "JAI",
+    "lng": 75.81,
+    "name": "Jaipur Airport",
+    "lat": 26.82
+  },
+  {
+    "icao_code": "VOHS",
+    "country_code": "IN",
+    "iata_code": "HYD",
+    "lng": 78.43,
+    "name": "Rajiv Gandhi International Airport",
+    "lat": 17.23
+  },
+  {
+    "icao_code": "VOBL",
+    "country_code": "IN",
+    "iata_code": "BLR",
+    "lng": 77.71,
+    "name": "Kempegowda International Airport",
+    "lat": 13.2
+  },
+  {
+    "icao_code": "VILK",
+    "country_code": "IN",
+    "iata_code": "LKO",
+    "lng": 80.89,
+    "name": "Chaudhary Charan Singh International Airport",
+    "lat": 26.76
+  },
+  {
+    "icao_code": "VOMM",
+    "country_code": "IN",
+    "iata_code": "MAA",
+    "lng": 80.17,
+    "name": "Chennai International Airport",
+    "lat": 12.99
+  },
+  {
+    "icao_code": "VEGT",
+    "country_code": "IN",
+    "iata_code": "GAU",
+    "lng": 91.59,
+    "name": "Lokpriya Gopinath Bordoloi International Airport",
+    "lat": 26.11
+  },
+  {
+    "icao_code": "VOTR",
+    "country_code": "IN",
+    "iata_code": "TRZ",
+    "lng": 78.71,
+    "name": "Tiruchirappalli International Airport",
+    "lat": 10.76
+  },
+  {
+    "icao_code": "VEPT",
+    "country_code": "IN",
+    "iata_code": "PAT",
+    "lng": 85.09,
+    "name": "Lok Nayak Jayaprakash Airport",
+    "lat": 25.59
+  },
+  {
+    "icao_code": "VECC",
+    "country_code": "IN",
+    "iata_code": "CCU",
+    "lng": 88.44,
+    "name": "Netaji Subhas Chandra Bose International Airport",
+    "lat": 22.65
+  },
+  {
+    "icao_code": "VIAR",
+    "country_code": "IN",
+    "iata_code": "ATQ",
+    "lng": 74.8,
+    "name": "Sri Guru Ram Dass Jee International Airport",
+    "lat": 31.71
+  },
+  {
+    "icao_code": "VEVZ",
+    "country_code": "IN",
+    "iata_code": "VTZ",
+    "lng": 83.23,
+    "name": "Visakhapatnam Airport",
+    "lat": 17.72
+  },
+  {
+    "icao_code": "VISR",
+    "country_code": "IN",
+    "iata_code": "SXR",
+    "lng": 74.77,
+    "name": "Srinagar International Airport",
+    "lat": 33.99
+  },
+  {
+    "icao_code": "VOCL",
+    "country_code": "IN",
+    "iata_code": "CCJ",
+    "lng": 75.95,
+    "name": "Calicut International Airport",
+    "lat": 11.14
+  },
+  {
+    "icao_code": "VANP",
+    "country_code": "IN",
+    "iata_code": "NAG",
+    "lng": 79.05,
+    "name": "Dr. Babasaheb Ambedkar International Airport",
+    "lat": 21.09
+  },
+  {
+    "icao_code": "VEGY",
+    "country_code": "IN",
+    "iata_code": "GAY",
+    "lng": 84.95,
+    "name": "Gaya Airport",
+    "lat": 24.75
+  },
+  {
+    "icao_code": "VAKJ",
+    "country_code": "IN",
+    "iata_code": "HJR",
+    "lng": 79.92,
+    "name": "Khajuraho Airport",
+    "lat": 24.82
+  },
+  {
+    "icao_code": "VOML",
+    "country_code": "IN",
+    "iata_code": "IXE",
+    "lng": 74.89,
+    "name": "Mangalore Airport",
+    "lat": 12.96
+  },
+  {
+    "icao_code": "VAPO",
+    "country_code": "IN",
+    "iata_code": "PNQ",
+    "lng": 73.92,
+    "name": "Pune Airport",
+    "lat": 18.58
+  },
+  {
+    "icao_code": "VAAH",
+    "country_code": "IN",
+    "iata_code": "AMD",
+    "lng": 72.63,
+    "name": "Sardar Vallabhbhai Patel International Airport",
+    "lat": 23.07
+  },
+  {
+    "icao_code": "VOTV",
+    "country_code": "IN",
+    "iata_code": "TRV",
+    "lng": 76.92,
+    "name": "Trivandrum International Airport",
+    "lat": 8.48
+  },
+  {
+    "icao_code": "VILH",
+    "country_code": "IN",
+    "iata_code": "IXL",
+    "lng": 77.55,
+    "name": "Kushok Bakula Rimpochhe Airport",
+    "lat": 34.14
+  },
+  {
+    "icao_code": "VOBR",
+    "country_code": "IN",
+    "iata_code": "IXX",
+    "lng": 77.49,
+    "name": "Bidar Airport",
+    "lat": 17.91
+  },
+  {
+    "icao_code": "VEJH",
+    "country_code": "IN",
+    "iata_code": "JRG",
+    "lng": 84.05,
+    "name": "Jharsuguda Airport",
+    "lat": 21.91
+  },
+  {
+    "icao_code": "VELR",
+    "country_code": "IN",
+    "iata_code": "IXI",
+    "lng": 94.1,
+    "name": "Lilabari Airport",
+    "lat": 27.29
+  },
+  {
+    "icao_code": "VEPY",
+    "country_code": "IN",
+    "iata_code": "PYG",
+    "lng": 88.59,
+    "name": "Pakyong Airport",
+    "lat": 27.23
+  },
+  {
+    "icao_code": "VOWA",
+    "country_code": "IN",
+    "iata_code": "WGC",
+    "lng": 79.6,
+    "name": "Warangal Airport",
+    "lat": 17.91
+  },
+  {
+    "icao_code": "VEAT",
+    "country_code": "IN",
+    "iata_code": "IXA",
+    "lng": 91.24,
+    "name": "Agartala Airport",
+    "lat": 23.89
+  },
+  {
+    "icao_code": "VOAT",
+    "country_code": "IN",
+    "iata_code": "AGX",
+    "lng": 72.18,
+    "name": "Agatti Airport",
+    "lat": 10.83
+  },
+  {
+    "icao_code": "VIAG",
+    "country_code": "IN",
+    "iata_code": "AGR",
+    "lng": 77.96,
+    "name": "Agra Airport",
+    "lat": 27.16
+  },
+  {
+    "icao_code": "VAAK",
+    "country_code": "IN",
+    "iata_code": "AKD",
+    "lng": 77.06,
+    "name": "Akola Airport",
+    "lat": 20.7
+  },
+  {
+    "icao_code": "VIAL",
+    "country_code": "IN",
+    "iata_code": "IXD",
+    "lng": 81.73,
+    "name": "Allahabad Airport",
+    "lat": 25.44
+  },
+  {
+    "icao_code": "VEAN",
+    "country_code": "IN",
+    "iata_code": "IXV",
+    "lng": 94.8,
+    "name": "Along Airport",
+    "lat": 28.18
+  },
+  {
+    "icao_code": "VAAU",
+    "country_code": "IN",
+    "iata_code": "IXU",
+    "lng": 75.4,
+    "name": "Aurangabad Airport",
+    "lat": 19.86
+  },
+  {
+    "icao_code": "VEBD",
+    "country_code": "IN",
+    "iata_code": "IXB",
+    "lng": 88.33,
+    "name": "Bagdogra Airport",
+    "lat": 26.68
+  },
+  {
+    "icao_code": "VEBG",
+    "country_code": "IN",
+    "iata_code": "RGH",
+    "lng": 88.8,
+    "name": "Balurghat Airport",
+    "lat": 25.26
+  },
+  {
+    "icao_code": "VIBY",
+    "country_code": "IN",
+    "iata_code": "BEK",
+    "lng": 79.45,
+    "name": "Bareilly Airport",
+    "lat": 28.42
+  },
+  {
+    "icao_code": "VORG",
+    "country_code": "IN",
+    "iata_code": "RMD",
+    "lng": 79.39,
+    "name": "Ramagundam Basantnagar Airport",
+    "lat": 18.7
+  },
+  {
+    "icao_code": "VOHY",
+    "country_code": "IN",
+    "iata_code": "BPM",
+    "lng": 78.47,
+    "name": "Hyderabad Old Airport",
+    "lat": 17.45
+  },
+  {
+    "icao_code": "VOBM",
+    "country_code": "IN",
+    "iata_code": "IXG",
+    "lng": 74.62,
+    "name": "Belgaum Airport",
+    "lat": 15.86
+  },
+  {
+    "icao_code": "VOBI",
+    "country_code": "IN",
+    "iata_code": "BEP",
+    "lng": 76.88,
+    "name": "Bellary Airport",
+    "lat": 15.16
+  },
+  {
+    "icao_code": "VABV",
+    "country_code": "IN",
+    "iata_code": "BHU",
+    "lng": 72.18,
+    "name": "Bhavnagar Airport",
+    "lat": 21.75
+  },
+  {
+    "icao_code": "VABJ",
+    "country_code": "IN",
+    "iata_code": "BHJ",
+    "lng": 69.67,
+    "name": "Bhuj Airport",
+    "lat": 23.29
+  },
+  {
+    "icao_code": "VEBS",
+    "country_code": "IN",
+    "iata_code": "BBI",
+    "lng": 85.82,
+    "name": "Biju Patnaik International Airport",
+    "lat": 20.25
+  },
+  {
+    "icao_code": "VEBU",
+    "country_code": "IN",
+    "iata_code": "PAB",
+    "lng": 82.11,
+    "name": "Bilaspur Airport",
+    "lat": 21.99
+  },
+  {
+    "icao_code": "VERC",
+    "country_code": "IN",
+    "iata_code": "IXR",
+    "lng": 85.32,
+    "name": "Birsa Munda Airport",
+    "lat": 23.32
+  },
+  {
+    "icao_code": "VOCX",
+    "country_code": "IN",
+    "iata_code": "CBD",
+    "lng": 92.82,
+    "name": "Car Nicobar Air Force Base",
+    "lat": 9.15
+  },
+  {
+    "icao_code": "VICG",
+    "country_code": "IN",
+    "iata_code": "IXC",
+    "lng": 76.79,
+    "name": "Chandigarh Airport",
+    "lat": 30.67
+  },
+  {
+    "icao_code": "VOGO",
+    "country_code": "IN",
+    "iata_code": "GOI",
+    "lng": 73.83,
+    "name": "Dabolim Airport",
+    "lat": 15.38
+  },
+  {
+    "icao_code": "VEDZ",
+    "country_code": "IN",
+    "iata_code": "DEP",
+    "lng": 94.22,
+    "name": "Daporijo Airport",
+    "lat": 27.99
+  },
+  {
+    "icao_code": "VIDN",
+    "country_code": "IN",
+    "iata_code": "DED",
+    "lng": 78.13,
+    "name": "Jolly Grant Airport",
+    "lat": 30.23
+  },
+  {
+    "icao_code": "VAID",
+    "country_code": "IN",
+    "iata_code": "IDR",
+    "lng": 75.8,
+    "name": "Devi Ahilyabai Holkar International Airport",
+    "lat": 22.72
+  },
+  {
+    "icao_code": "VEDB",
+    "country_code": "IN",
+    "iata_code": "DBD",
+    "lng": 86.43,
+    "name": "Dhanbad Airport",
+    "lat": 23.83
+  },
+  {
+    "icao_code": "VEMN",
+    "country_code": "IN",
+    "iata_code": "DIB",
+    "lng": 95.02,
+    "name": "Dibrugarh Airport",
+    "lat": 27.48
+  },
+  {
+    "icao_code": "VEMR",
+    "country_code": "IN",
+    "iata_code": "DMU",
+    "lng": 93.77,
+    "name": "Dimapur Airport",
+    "lat": 25.88
+  },
+  {
+    "icao_code": "VEGK",
+    "country_code": "IN",
+    "iata_code": "GOP",
+    "lng": 83.45,
+    "name": "Gorakhpur Airport",
+    "lat": 26.74
+  },
+  {
+    "icao_code": "VIGR",
+    "country_code": "IN",
+    "iata_code": "GWL",
+    "lng": 78.23,
+    "name": "Gwalior Airport",
+    "lat": 26.29
+  },
+  {
+    "icao_code": "VOHB",
+    "country_code": "IN",
+    "iata_code": "HBX",
+    "lng": 75.08,
+    "name": "Hubli Airport",
+    "lat": 15.36
+  },
+  {
+    "icao_code": "VEIM",
+    "country_code": "IN",
+    "iata_code": "IMF",
+    "lng": 93.9,
+    "name": "Imphal International Airport",
+    "lat": 24.76
+  },
+  {
+    "icao_code": "VAJB",
+    "country_code": "IN",
+    "iata_code": "JLR",
+    "lng": 80.05,
+    "name": "Jabalpur Airport",
+    "lat": 23.18
+  },
+  {
+    "icao_code": "VIJR",
+    "country_code": "IN",
+    "iata_code": "JSA",
+    "lng": 70.87,
+    "name": "Jaisalmer Airport",
+    "lat": 26.89
+  },
+  {
+    "icao_code": "VIJU",
+    "country_code": "IN",
+    "iata_code": "IXJ",
+    "lng": 74.84,
+    "name": "Jammu Airport",
+    "lat": 32.69
+  },
+  {
+    "icao_code": "VAJM",
+    "country_code": "IN",
+    "iata_code": "JGA",
+    "lng": 70.01,
+    "name": "Jamnagar Airport",
+    "lat": 22.46
+  },
+  {
+    "icao_code": "VEJP",
+    "country_code": "IN",
+    "iata_code": "PYB",
+    "lng": 82.55,
+    "name": "Jeypore Airport",
+    "lat": 18.88
+  },
+  {
+    "icao_code": "VIJO",
+    "country_code": "IN",
+    "iata_code": "JDH",
+    "lng": 73.05,
+    "name": "Jodhpur Airport",
+    "lat": 26.26
+  },
+  {
+    "icao_code": "VEJT",
+    "country_code": "IN",
+    "iata_code": "JRH",
+    "lng": 94.18,
+    "name": "Jorhat Airport",
+    "lat": 26.73
+  },
+  {
+    "icao_code": "VOCP",
+    "country_code": "IN",
+    "iata_code": "CDP",
+    "lng": 78.77,
+    "name": "Kadapa Airport",
+    "lat": 14.51
+  },
+  {
+    "icao_code": "VAKE",
+    "country_code": "IN",
+    "iata_code": "IXY",
+    "lng": 70.1,
+    "name": "Kandla Airport",
+    "lat": 23.11
+  },
+  {
+    "icao_code": "VIGG",
+    "country_code": "IN",
+    "iata_code": "DHM",
+    "lng": 76.26,
+    "name": "Kangra Airport",
+    "lat": 32.17
+  },
+  {
+    "icao_code": "VOKN",
+    "country_code": "IN",
+    "iata_code": "CNN",
+    "lng": 75.55,
+    "name": "Kannur International Airport",
+    "lat": 11.92
+  },
+  {
+    "icao_code": "VIKA",
+    "country_code": "IN",
+    "iata_code": "KNU",
+    "lng": 80.39,
+    "name": "Kanpur Civil Airport",
+    "lat": 26.42
+  },
+  {
+    "icao_code": "VEDG",
+    "country_code": "IN",
+    "iata_code": "RDP",
+    "lng": 87.24,
+    "name": "Kazi Nazrul Islam Airport",
+    "lat": 23.62
+  },
+  {
+    "icao_code": "VEKW",
+    "country_code": "IN",
+    "iata_code": "IXN",
+    "lng": 91.6,
+    "name": "Khowai Airport",
+    "lat": 24.06
+  },
+  {
+    "icao_code": "VIKG",
+    "country_code": "IN",
+    "iata_code": "KQH",
+    "lng": 74.81,
+    "name": "Ajmer Kishangarh Airport",
+    "lat": 26.59
+  },
+  {
+    "icao_code": "VAKP",
+    "country_code": "IN",
+    "iata_code": "KLH",
+    "lng": 74.3,
+    "name": "Kolhapur Airport",
+    "lat": 16.67
+  },
+  {
+    "icao_code": "VIKO",
+    "country_code": "IN",
+    "iata_code": "KTU",
+    "lng": 75.85,
+    "name": "Kota Airport",
+    "lat": 25.16
+  },
+  {
+    "icao_code": "VIBR",
+    "country_code": "IN",
+    "iata_code": "KUU",
+    "lng": 77.14,
+    "name": "Kullu Manali Airport",
+    "lat": 31.91
+  },
+  {
+    "icao_code": "VOKU",
+    "country_code": "IN",
+    "iata_code": "KJB",
+    "lng": 78.17,
+    "name": "Kurnool Airport",
+    "lat": 15.72
+  },
+  {
+    "icao_code": "VIBN",
+    "country_code": "IN",
+    "iata_code": "VNS",
+    "lng": 82.86,
+    "name": "Lal Bahadur Shastri Airport",
+    "lat": 25.45
+  },
+  {
+    "icao_code": "VILD",
+    "country_code": "IN",
+    "iata_code": "LUH",
+    "lng": 75.92,
+    "name": "Ludhiana Airport",
+    "lat": 30.87
+  },
+  {
+    "icao_code": "VOMD",
+    "country_code": "IN",
+    "iata_code": "IXM",
+    "lng": 78.09,
+    "name": "Madurai Airport",
+    "lat": 9.84
+  },
+  {
+    "icao_code": "VAUD",
+    "country_code": "IN",
+    "iata_code": "UDR",
+    "lng": 73.89,
+    "name": "Maharana Pratap Airport",
+    "lat": 24.62
+  },
+  {
+    "icao_code": "VEMH",
+    "country_code": "IN",
+    "iata_code": "LDA",
+    "lng": 88.13,
+    "name": "Malda Airport",
+    "lat": 25.03
+  },
+  {
+    "icao_code": "VALT",
+    "country_code": "IN",
+    "iata_code": "LTU",
+    "lng": 76.47,
+    "name": "Latur Airport",
+    "lat": 18.41
+  },
+  {
+    "icao_code": "VOMY",
+    "country_code": "IN",
+    "iata_code": "MYQ",
+    "lng": 76.65,
+    "name": "Mysore Airport",
+    "lat": 12.26
+  },
+  {
+    "icao_code": "VIBK",
+    "country_code": "IN",
+    "iata_code": "BKB",
+    "lng": 73.21,
+    "name": "Nal Airport",
+    "lat": 28.07
+  },
+  {
+    "icao_code": "VAND",
+    "country_code": "IN",
+    "iata_code": "NDC",
+    "lng": 77.32,
+    "name": "Nanded Airport",
+    "lat": 19.18
+  },
+  {
+    "icao_code": "VAOZ",
+    "country_code": "IN",
+    "iata_code": "ISK",
+    "lng": 73.91,
+    "name": "Ozar Airport",
+    "lat": 20.12
+  },
+  {
+    "icao_code": "VONV",
+    "country_code": "IN",
+    "iata_code": "NVY",
+    "lng": 79.53,
+    "name": "Neyveli Airport",
+    "lat": 11.61
+  },
+  {
+    "icao_code": "VIPT",
+    "country_code": "IN",
+    "iata_code": "PGH",
+    "lng": 79.47,
+    "name": "Pantnagar Airport",
+    "lat": 29.03
+  },
+  {
+    "icao_code": "VEPG",
+    "country_code": "IN",
+    "iata_code": "IXT",
+    "lng": 95.34,
+    "name": "Pasighat Airport",
+    "lat": 28.07
+  },
+  {
+    "icao_code": "VIPK",
+    "country_code": "IN",
+    "iata_code": "IXP",
+    "lng": 75.63,
+    "name": "Pathankot Airport",
+    "lat": 32.23
+  },
+  {
+    "icao_code": "VOPC",
+    "country_code": "IN",
+    "iata_code": "PNY",
+    "lng": 79.81,
+    "name": "Pondicherry Airport",
+    "lat": 11.97
+  },
+  {
+    "icao_code": "VAPR",
+    "country_code": "IN",
+    "iata_code": "PBD",
+    "lng": 69.66,
+    "name": "Porbandar Airport",
+    "lat": 21.65
+  },
+  {
+    "icao_code": "VABP",
+    "country_code": "IN",
+    "iata_code": "BHO",
+    "lng": 77.34,
+    "name": "Raja Bhoj International Airport",
+    "lat": 23.29
+  },
+  {
+    "icao_code": "VORY",
+    "country_code": "IN",
+    "iata_code": "RJA",
+    "lng": 81.82,
+    "name": "Rajahmundry Airport",
+    "lat": 17.11
+  },
+  {
+    "icao_code": "VARK",
+    "country_code": "IN",
+    "iata_code": "RAJ",
+    "lng": 70.78,
+    "name": "Rajkot Airport",
+    "lat": 22.31
+  },
+  {
+    "icao_code": "VOSM",
+    "country_code": "IN",
+    "iata_code": "SXV",
+    "lng": 78.07,
+    "name": "Salem Airport",
+    "lat": 11.78
+  },
+  {
+    "icao_code": "VIST",
+    "country_code": "IN",
+    "iata_code": "TNI",
+    "lng": 80.85,
+    "name": "Satna Airport",
+    "lat": 24.56
+  },
+  {
+    "icao_code": "VEBI",
+    "country_code": "IN",
+    "iata_code": "SHL",
+    "lng": 91.98,
+    "name": "Shillong Airport",
+    "lat": 25.7
+  },
+  {
+    "icao_code": "VISM",
+    "country_code": "IN",
+    "iata_code": "SLV",
+    "lng": 77.07,
+    "name": "Shimla Airport",
+    "lat": 31.08
+  },
+  {
+    "icao_code": "VASD",
+    "country_code": "IN",
+    "iata_code": "SAG",
+    "lng": 74.38,
+    "name": "Shirdi Airport",
+    "lat": 19.69
+  },
+  {
+    "icao_code": "VEKU",
+    "country_code": "IN",
+    "iata_code": "IXS",
+    "lng": 92.98,
+    "name": "Silchar Airport",
+    "lat": 24.91
+  },
+  {
+    "icao_code": "VASL",
+    "country_code": "IN",
+    "iata_code": "SSE",
+    "lng": 75.93,
+    "name": "Sholapur",
+    "lat": 17.63
+  },
+  {
+    "icao_code": "VEJS",
+    "country_code": "IN",
+    "iata_code": "IXW",
+    "lng": 86.17,
+    "name": "Jamshedpur",
+    "lat": 22.81
+  },
+  {
+    "icao_code": "VOPN",
+    "country_code": "IN",
+    "iata_code": "PUT",
+    "lng": 77.79,
+    "name": "Sri Sathya Sai Airport",
+    "lat": 14.15
+  },
+  {
+    "icao_code": "VASU",
+    "country_code": "IN",
+    "iata_code": "STV",
+    "lng": 72.74,
+    "name": "Surat Airport",
+    "lat": 21.12
+  },
+  {
+    "icao_code": "VARP",
+    "country_code": "IN",
+    "iata_code": "RPR",
+    "lng": 81.74,
+    "name": "Swami Vivekananda Airport",
+    "lat": 21.18
+  },
+  {
+    "icao_code": "VETZ",
+    "country_code": "IN",
+    "iata_code": "TEZ",
+    "lng": 92.78,
+    "name": "Tezpur Airport",
+    "lat": 26.71
+  },
+  {
+    "icao_code": "VETJ",
+    "country_code": "IN",
+    "iata_code": "TEI",
+    "lng": 96.13,
+    "name": "Tezu Airport",
+    "lat": 27.94
+  },
+  {
+    "icao_code": "VOTJ",
+    "country_code": "IN",
+    "iata_code": "TJV",
+    "lng": 79.1,
+    "name": "Tanjore Air Force Base",
+    "lat": 10.72
+  },
+  {
+    "icao_code": "VOTP",
+    "country_code": "IN",
+    "iata_code": "TIR",
+    "lng": 79.54,
+    "name": "Tirupati Airport",
+    "lat": 13.63
+  },
+  {
+    "icao_code": "VOTK",
+    "country_code": "IN",
+    "iata_code": "TCR",
+    "lng": 78.03,
+    "name": "Tuticorin Airport",
+    "lat": 8.72
+  },
+  {
+    "icao_code": "VABO",
+    "country_code": "IN",
+    "iata_code": "BDQ",
+    "lng": 73.22,
+    "name": "Vadodara Airport",
+    "lat": 22.33
+  },
+  {
+    "icao_code": "VOBZ",
+    "country_code": "IN",
+    "iata_code": "VGA",
+    "lng": 80.8,
+    "name": "Vijayawada Airport",
+    "lat": 16.53
+  },
+  {
+    "icao_code": "VOPB",
+    "country_code": "IN",
+    "iata_code": "IXZ",
+    "lng": 92.73,
+    "name": "Veer Savarkar International Airport",
+    "lat": 11.64
+  },
+  {
+    "icao_code": "VEZO",
+    "country_code": "IN",
+    "iata_code": "ZER",
+    "lng": 93.83,
+    "name": "Zero Airport",
+    "lat": 27.59
+  },
+  {
+    "icao_code": "VIAX",
+    "country_code": "IN",
+    "iata_code": "AIP",
+    "lng": 75.76,
+    "name": "Adampur Airport",
+    "lat": 31.43
+  },
+  {
+    "icao_code": "VEBA",
+    "country_code": "IN",
+    "lng": 88.29,
+    "name": "Behala Airport",
+    "lat": 22.5
+  },
+  {
+    "icao_code": "VECO",
+    "country_code": "IN",
+    "iata_code": "COH",
+    "lng": 89.47,
+    "name": "Cooch Behar Airport",
+    "lat": 26.33
+  },
+  {
+    "icao_code": "VADN",
+    "country_code": "IN",
+    "iata_code": "NMB",
+    "lng": 72.84,
+    "name": "Daman Airport",
+    "lat": 20.43
+  },
+  {
+    "country_code": "IN",
+    "iata_code": "DIU",
+    "lng": 70.92,
+    "name": "Diu Airport",
+    "lat": 20.71
+  },
+  {
+    "icao_code": "VOBG",
+    "country_code": "IN",
+    "lng": 77.67,
+    "name": "HAL Bangalore Airport",
+    "lat": 12.95
+  },
+  {
+    "icao_code": "VIHR",
+    "country_code": "IN",
+    "iata_code": "HSS",
+    "lng": 75.76,
+    "name": "Hisar Airport",
+    "lat": 29.18
+  },
+  {
+    "icao_code": "VOCC",
+    "country_code": "IN",
+    "lng": 76.27,
+    "name": "INS Garuda",
+    "lat": 9.95
+  },
+  {
+    "country_code": "IN",
+    "iata_code": "JGB",
+    "lng": 82.04,
+    "name": "Jagdalpur Airport",
+    "lat": 19.07
+  },
+  {
+    "icao_code": "VAJJ",
+    "country_code": "IN",
+    "lng": 72.83,
+    "name": "Juhu Aerodrome",
+    "lat": 19.1
+  },
+  {
+    "icao_code": "VEKM",
+    "country_code": "IN",
+    "iata_code": "IXQ",
+    "lng": 91.81,
+    "name": "Kamalpur Airport",
+    "lat": 24.13
+  },
+  {
+    "icao_code": "VICX",
+    "country_code": "IN",
+    "iata_code": "KNU",
+    "lng": 80.41,
+    "name": "Kanpur Airport",
+    "lat": 26.4
+  },
+  {
+    "icao_code": "VAKS",
+    "country_code": "IN",
+    "iata_code": "IXK",
+    "lng": 70.27,
+    "name": "Keshod Airport",
+    "lat": 21.32
+  },
+  {
+    "icao_code": "VELP",
+    "country_code": "IN",
+    "iata_code": "AJL",
+    "lng": 92.62,
+    "name": "Lengpui Airport",
+    "lat": 23.84
+  },
+  {
+    "icao_code": "VEMZ",
+    "country_code": "IN",
+    "iata_code": "MZU",
+    "lng": 85.31,
+    "name": "Muzaffarpur Airport",
+    "lat": 26.12
+  },
+  {
+    "country_code": "IN",
+    "iata_code": "OMN",
+    "lng": 76.06,
+    "name": "Osmanabad Airport",
+    "lat": 18.28
+  },
+  {
+    "icao_code": "VARG",
+    "country_code": "IN",
+    "iata_code": "RTC",
+    "lng": 73.33,
+    "name": "Ratnagiri Airport",
+    "lat": 17.01
+  },
+  {
+    "icao_code": "VERK",
+    "country_code": "IN",
+    "iata_code": "RRK",
+    "lng": 84.81,
+    "name": "Rourkela Airport",
+    "lat": 22.26
+  },
+  {
+    "icao_code": "VERU",
+    "country_code": "IN",
+    "iata_code": "RUP",
+    "lng": 89.91,
+    "name": "Rupsi India Airport",
+    "lat": 26.14
+  },
+  {
+    "icao_code": "VIDD",
+    "country_code": "IN",
+    "lng": 77.21,
+    "name": "Safdarjung Airport",
+    "lat": 28.58
+  },
+  {
+    "icao_code": "VOJV",
+    "country_code": "IN",
+    "iata_code": "VDY",
+    "lng": 76.63,
+    "name": "Vidyanagar Airport",
+    "lat": 15.17
+  },
+  {
+    "icao_code": "VOYK",
+    "country_code": "IN",
+    "lng": 77.61,
+    "name": "Yelahanka Airforce Base",
+    "lat": 13.14
+  },
+  {
+    "icao_code": "VIBT",
+    "country_code": "IN",
+    "iata_code": "BUP",
+    "lng": 74.76,
+    "name": "Bathinda Airport",
+    "lat": 30.27
+  },
+  {
+    "icao_code": "VADS",
+    "country_code": "IN",
+    "lng": 72.2,
+    "name": "Deesa Airport",
+    "lat": 24.27
+  },
+  {
+    "icao_code": "VAGN",
+    "country_code": "IN",
+    "iata_code": "GUX",
+    "lng": 77.35,
+    "name": "Guna Airport",
+    "lat": 24.65
+  },
+  {
+    "icao_code": "VEKR",
+    "country_code": "IN",
+    "iata_code": "IXH",
+    "lng": 92.01,
+    "name": "Kailashahar Airport",
+    "lat": 24.31
+  },
+  {
+    "icao_code": "VOKP",
+    "country_code": "IN",
+    "lng": 76.22,
+    "name": "Koppal Airport",
+    "lat": 15.36
+  },
+  {
+    "country_code": "IN",
+    "iata_code": "RJI",
+    "lng": 74.32,
+    "name": "Rajouri Airport",
+    "lat": 33.38
+  },
+  {
+    "country_code": "IN",
+    "iata_code": "REW",
+    "lng": 81.22,
+    "name": "Rewa Chorhata Airport",
+    "lat": 24.5
+  },
+  {
+    "icao_code": "VOVR",
+    "country_code": "IN",
+    "lng": 79.07,
+    "name": "Vellore Airport",
+    "lat": 12.91
+  },
+  {
+    "icao_code": "VECK",
+    "country_code": "IN",
+    "lng": 86.71,
+    "name": "Chakulia Airport",
+    "lat": 22.46
+  },
+  {
+    "icao_code": "VODG",
+    "country_code": "IN",
+    "lng": 78.4,
+    "name": "Dundigul Air Force Academy",
+    "lat": 17.63
+  },
+  {
+    "icao_code": "VOHK",
+    "country_code": "IN",
+    "lng": 78.52,
+    "name": "Hakimpet Airport",
+    "lat": 17.55
+  },
+  {
+    "icao_code": "VIHX",
+    "country_code": "IN",
+    "lng": 75.63,
+    "name": "Halwara Air Force Station",
+    "lat": 30.75
+  },
+  {
+    "icao_code": "VOAR",
+    "country_code": "IN",
+    "lng": 79.69,
+    "name": "INS Rajali / Arakkonam Naval Air Station",
+    "lat": 13.07
+  },
+  {
+    "icao_code": "VIJN",
+    "country_code": "IN",
+    "lng": 78.56,
+    "name": "Jhansi",
+    "lat": 25.49
+  },
+  {
+    "icao_code": "VEPU",
+    "country_code": "IN",
+    "lng": 87.41,
+    "name": "Purnea Airport",
+    "lat": 25.76
+  },
+  {
+    "icao_code": "VERL",
+    "country_code": "IN",
+    "lng": 84.83,
+    "name": "Raxaul Airport",
+    "lat": 26.97
+  },
+  {
+    "icao_code": "VIBL",
+    "country_code": "IN",
+    "lng": 80.89,
+    "name": "Bakshi Ka Talab Air Force Station",
+    "lat": 26.99
+  },
+  {
+    "icao_code": "VEPI",
+    "country_code": "IN",
+    "lng": 88.36,
+    "name": "Barrackpore Air Force Station",
+    "lat": 22.78
+  },
+  {
+    "icao_code": "VIBW",
+    "country_code": "IN",
+    "lng": 76.18,
+    "name": "Bhiwani",
+    "lat": 28.84
+  },
+  {
+    "icao_code": "VECA",
+    "country_code": "IN",
+    "lng": 95.12,
+    "name": "Chabua Air Force Station",
+    "lat": 27.46
+  },
+  {
+    "icao_code": "VIDX",
+    "country_code": "IN",
+    "lng": 77.36,
+    "name": "Hindon Air Force Station",
+    "lat": 28.71
+  },
+  {
+    "icao_code": "VORM",
+    "country_code": "IN",
+    "lng": 78.97,
+    "name": "Ramnad Naval Air Station",
+    "lat": 9.33
+  },
+  {
+    "icao_code": "VOTX",
+    "country_code": "IN",
+    "lng": 80.12,
+    "name": "Tambaram Air Force Station",
+    "lat": 12.91
+  },
+  {
+    "icao_code": "VIAM",
+    "country_code": "IN",
+    "lng": 76.82,
+    "name": "Ambala Air Force Station",
+    "lat": 30.37
+  },
+  {
+    "icao_code": "VOSX",
+    "country_code": "IN",
+    "lng": 77.16,
+    "name": "Coimbatore Air Force Station",
+    "lat": 11.01
+  },
+  {
+    "icao_code": "VEHK",
+    "country_code": "IN",
+    "lng": 84.01,
+    "name": "Hirakud Airport",
+    "lat": 21.58
+  },
+  {
+    "icao_code": "VEDX",
+    "country_code": "IN",
+    "lng": 87.21,
+    "name": "Kalaikunda Air Force Station",
+    "lat": 22.34
+  },
+  {
+    "icao_code": "VILP",
+    "country_code": "IN",
+    "lng": 78.42,
+    "name": "Lalitpur Airport",
+    "lat": 24.72
+  },
+  {
+    "icao_code": "VONS",
+    "country_code": "IN",
+    "lng": 79.32,
+    "name": "Nagarjuna Sagar Airport",
+    "lat": 16.54
+  },
+  {
+    "icao_code": "VENP",
+    "country_code": "IN",
+    "lng": 82.52,
+    "name": "Nawapara Airport",
+    "lat": 20.87
+  },
+  {
+    "icao_code": "VEPH",
+    "country_code": "IN",
+    "lng": 87.43,
+    "name": "Panagarh Air Force Station",
+    "lat": 23.47
+  },
+  {
+    "icao_code": "VISP",
+    "country_code": "IN",
+    "lng": 77.43,
+    "name": "Sarsawa Air Force Station",
+    "lat": 29.99
+  },
+  {
+    "icao_code": "VEAZ",
+    "country_code": "IN",
+    "lng": 92.8,
+    "name": "Tuirial Airfield",
+    "lat": 23.74
+  },
+  {
+    "icao_code": "VIUT",
+    "country_code": "IN",
+    "lng": 71.48,
+    "name": "Uttarlai Airport",
+    "lat": 25.81
+  },
+  {
+    "icao_code": "VIAW",
+    "country_code": "IN",
+    "lng": 74.98,
+    "name": "Awantipur Air Force Station",
+    "lat": 33.88
+  },
+  {
+    "icao_code": "VEBM",
+    "country_code": "IN",
+    "lng": 84.88,
+    "name": "Berhampur Airport",
+    "lat": 19.3
+  },
+  {
+    "icao_code": "VEBK",
+    "country_code": "IN",
+    "lng": 86.15,
+    "name": "Bokaro Airport",
+    "lat": 23.64
+  },
+  {
+    "icao_code": "VIAH",
+    "country_code": "IN",
+    "lng": 78.15,
+    "name": "Dhanipur Airstrip",
+    "lat": 27.86
+  },
+  {
+    "icao_code": "VAMA",
+    "country_code": "IN",
+    "lng": 69.77,
+    "name": "Mundra Airport",
+    "lat": 22.83
+  },
+  {
+    "icao_code": "VIPL",
+    "country_code": "IN",
+    "lng": 76.36,
+    "name": "Patiala Airport",
+    "lat": 30.31
+  },
+  {
+    "icao_code": "VIDF",
+    "country_code": "IN",
+    "lng": 80.24,
+    "name": "Pithorgarh Airport",
+    "lat": 29.59
+  },
+  {
+    "icao_code": "VISA",
+    "country_code": "IN",
+    "lng": 75.01,
+    "name": "Sirsa Air Force Station",
+    "lat": 29.56
+  },
+  {
+    "icao_code": "VIUX",
+    "country_code": "IN",
+    "lng": 75.16,
+    "name": "Udhampur Air Force Station",
+    "lat": 32.9
+  },
+  {
+    "icao_code": "VEUK",
+    "country_code": "IN",
+    "lng": 83.18,
+    "name": "Utkela Airport",
+    "lat": 20.1
+  },
+  {
+    "icao_code": "VEKJ",
+    "country_code": "IN",
+    "lng": 85.58,
+    "name": "KEONJHAR AIRPORT",
+    "lat": 21.7
+  }
+]
